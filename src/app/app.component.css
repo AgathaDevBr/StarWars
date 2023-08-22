@@ -1,0 +1,9 @@
+.card-holder {
+    margin-left: 33%; 
+    margin-top: 23%;
+    align-content: center;
+  }
+
+.backgroundImage {
+  background-image: url('/src/imagem/star.webp');
+}
